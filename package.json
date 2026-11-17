@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LuckyTungariya/Backend_series#readme",
+  "bugs": {
+    "url": "https://github.com/LuckyTungariya/Backend_series/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyTungariya/Backend_series.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6"
+  }
+}
